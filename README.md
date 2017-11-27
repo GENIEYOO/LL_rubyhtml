@@ -359,6 +359,8 @@ console.log("hi") : 괄호를 닫으면 메소드를 실행시키면 된다.
 * 개발 하기 전에 pull먼저 하고 개발하는 것이 좋다.(충돌 예방)
 * git pull하기 전 내 껀 commit 다 된 상태에서
 * feature finish 안하고 push 가능
+* develop 브랜치에서 해야하므로 master 라면 체크아웃 push 도 origin develop으로 한다.
+* git feature finish 안하고 push 하면 가지와 함께 커밋됨.
 
 -codacademy로 Jquery공부하기!!
 
